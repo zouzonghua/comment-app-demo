@@ -15,7 +15,10 @@
   },
   "eslintConfig": {
     "parser": "babel-eslint",
-    "extends": ["standard", "standard-react"]
+    "extends": [
+      "standard",
+      "standard-react"
+    ]
   },
   "browserslist": {
     "production": [
@@ -37,6 +40,8 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-standard": "^4.0.1",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
   }
 }
