@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## online preview
 
-- [click me](https://github.zouzonghua.cn/comment-app-demo/)
+- [click me](https://zouzonghua.cn/comment-app-demo/)
